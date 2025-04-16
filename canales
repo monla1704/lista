@@ -88,3 +88,29 @@ http://201.182.248.254:8888/play/a09z/index.m3u8
 http://201.182.248.254:8888/play/a0d1/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://201.182.248.254:8888/play/a0do/index.m3u8
+#EXTINF:-1,PE| E$PN 1 HD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/531056.m3u8
+#EXTINF:-1,PE| E$PN 1 SD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/374648.m3u8
+#EXTINF:-1,PE| E$PN 5 HD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/374656.m3u8
+#EXTINF:-1,PE| E$PN 5 SD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/374655.m3u8
+#EXTINF:-1,PE| E$PN 6 HD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/374657.m3u8
+#EXTINF:-1,PE| E$PN 6 SD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/374658.m3u8
+#EXTINF:-1,PE| E$PN 7 SD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/309668.m3u8
+#EXTINF:-1,PE| D$PORTS HD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/374670.m3u8
+#EXTINF:-1,PE| ESPN 4 SD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/536434.m3u8
+#EXTINF:-1,PE| ESPN 5 SD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/536436.m3u8
+#EXTINF:-1,PE| E$PN 7 SD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/536440.m3u8
+#EXTINF:-1,PE| D$PORTS 1 HD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/536441.m3u8
+#EXTINF:-1,PE| D$PORTS + HD
+http://tvlatino.club:2082/live/Pablo30/9dmrpkK6UU39/536445.m3u8
